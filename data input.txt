@@ -1,0 +1,32 @@
+- input python
+Nomor kendaraan: D 2468 KL
+Merk: Porsche
+Tahun rilis: 2020
+Jumlah pintu: 2
+Kapasitas penumpang: 2
+Kecepatan maksimum: 290
+Warna: Kuning
+Jenis: 718 Boxster
+Harga: 2100000000
+
+-input cpp
+Nomor kendaraan: D 1357 MN
+Merk: Porsche
+Tahun rilis: 2025
+Jumlah pintu: 4
+Kapasitas penumpang: 5
+Kecepatan maksimum: 270
+Warna: Hijau
+Jenis: Taycan
+Harga: 3200000000
+
+-input java
+Nomor kendaraan: D 8642 PQ
+Merk: Porsche
+Tahun rilis: 2019
+Jumlah pintu: 4
+Kapasitas penumpang: 5
+Kecepatan maksimum: 240
+Warna: Silver
+Jenis: Panamera
+Harga: 1900000000
